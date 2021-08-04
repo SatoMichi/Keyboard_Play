@@ -12,7 +12,7 @@ pip install pandas
 Main function is to provide map of scale(音階) to frequency(周波数). **A#0 = As0** in the code.  
 reference: https://tomari.org/main/java/oto.html  
 
-## keyboard_play.py
+## keyboardPlay.py
 Enable user to play the music with keyboard(is**Computer Keyboard** not Piano Keyboard!!). Function(play_score) provide which beep the sound according to passed frequency and duration of time.    
 By running comannd below, and you will be able to play the music like Piano.
 ```
