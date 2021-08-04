@@ -22,7 +22,7 @@ Above example is using UK keybord.
 
 ![piano_keys](https://user-images.githubusercontent.com/44910734/128111831-d44a3869-959d-4d6b-8d45-31987bc01e86.jpg)
 retrieved from http://www.piano-keyboard-guide.com/piano-notes.html  
-
+![uk_keyboard](https://user-images.githubusercontent.com/44910734/128111926-76fab6ea-eeec-4e5f-b589-b256b067d5fc.png)
 retrieved from https://keyshorts.com/blogs/blog/44712961-how-to-identify-laptop-keyboard-localization#uk-british-english
 
 The mapping of the key to scale is defined in the code.
