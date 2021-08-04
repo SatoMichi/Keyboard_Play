@@ -1,5 +1,4 @@
 import pandas as pd
-from winsound import Beep
 
 scale2freq = {}
 
@@ -9,11 +8,6 @@ def set_scale():
     # set dictionaly of scales and frequencies
     for i in range(df.shape[0]):
         scale2freq[df["Var"][i]] = df["Freq"][i]
-
-def play_scale(scale,duration=200):
-    freq = int(scale2freq[scale])
-    Beep(freq,duration)
-    return freq
 
 if __name__ == "__main__":
     set_scale()
