@@ -34,4 +34,4 @@ To finish the program, please enter ESC key.
 ## Note
 Since this code purpose was just trying to realize what I come up with in one night, probably I will not come back to this code to modify it unless it interest me again.
 
-**Ofcourse feel free to modify code if you come up with good idea.**
+**Of course feel free to modify code if you come up with good idea.**
