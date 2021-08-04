@@ -1,5 +1,5 @@
-# music_tools
-Various music related tools which is based on my idea which are just come up with.
+# Keyboard_Play
+Software enable user to play music(sound) with computer keyboard which is based on my idea just come up with.
 
 # Requirements
 use pip command or conda command(if you are using Anaconda)
@@ -31,4 +31,7 @@ To finish the program, please enter ESC key.
 
 *Unfortinately the refrection speed of the sound beeped when key is pressed is much slower than piano. Using multiprocessing could be one of the biggest factor. However, without multiprocessing, the sound will not be canceled if new key is pressed immediately after the previous one.*  
 
-**Feel free to modify code if you come up with good idea.**
+## Note
+Since this code purpose was just trying to realize what I come up with in one night, probably I will not come back to this code to modify it unless it interest me again.
+
+**Ofcourse feel free to modify code if you come up with good idea.**
